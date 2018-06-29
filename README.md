@@ -143,3 +143,7 @@ There are numerous reasons for Refresh Token to be invalidated. When that happen
 ```
 
 When this error occurs, user credentials have to be used in order to authenticate the user again.
+
+## 🔖 License
+
+The code is released under the Apache 2.0 license. See [LICENSE](https://github.com/gigsterous/auth-server/blob/master/LICENSE) for details.
